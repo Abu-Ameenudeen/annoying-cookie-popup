@@ -20,3 +20,4 @@ consentForm.addEventListener('submit', function(e){
             Uploading your data to the dark web...
         </p>
     </div>`
+})
