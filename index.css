@@ -83,6 +83,7 @@ Challenge:
     left: 0;
     right: 0;
     margin: auto;
+    display: none;
     width: 350px;
     border-radius: 5px;
     box-shadow: 0px 0px 6px 2px #666;
