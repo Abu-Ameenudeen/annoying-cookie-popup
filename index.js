@@ -16,8 +16,9 @@ consentForm.addEventListener('submit', function(e){
     modalText.innerHTML = `
     <div class="modal-inner-loading">
         <img src="images/loading.svg" class="loading">
-        <p id="uploadText">
-            Uploading your data to the dark web...
-        </p>
+        <p id="upload-text">Uploading your data to the dark web...</p>
     </div>`
+    setTimeout(function(){
+        document.getElementById('upload-text').textContent = `Making the sale...`
+    }, 1500)
 })
