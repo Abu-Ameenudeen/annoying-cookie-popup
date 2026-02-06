@@ -33,6 +33,7 @@ This project simulates an intentionally annoying cookie consent popup to practic
 
 ## 📂 Project Structure
 
+```
 ├── index.html
 ├── index.css
 ├── index.js
@@ -40,7 +41,7 @@ This project simulates an intentionally annoying cookie consent popup to practic
 │ ├── bugatti.jpg
 │ ├── loading.svg
 │ └── pirate.gif
-
+```
 
 ## ▶️ How It Works
 
